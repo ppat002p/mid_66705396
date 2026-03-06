@@ -68,7 +68,7 @@ String? selectedProvince;
     }
 
     final url = Uri.parse(
-      "http://localhost/mid_66704466/php_api/insert_tourist.php",
+      "http://localhost/mid_66705396/php_api/insert_tourist.php",
     );
 
     var request = http.MultipartRequest('POST', url);
